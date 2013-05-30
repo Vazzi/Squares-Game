@@ -1,0 +1,24 @@
+html {
+    background-color: black;
+    color: white;
+    font-family: Veranda, sans-serif;
+}
+#container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 810px;
+    cursor: none;
+}
+
+table {
+    width: 800px;
+}
+
+#score {
+    width: 400px;
+}
+
+#info {
+    text-align: right;
+}
+
